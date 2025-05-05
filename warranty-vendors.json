@@ -3,7 +3,7 @@
   "vendors" : [{
     "vendor_id" : 1,
     "vendor_name" : "Dell",
-    "is_supported" : true,
+    "is_supported" : false,
     "is_bulk_scan_supported": true
   },
   {
