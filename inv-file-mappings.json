@@ -1,0 +1,17 @@
+{
+    "mac-antivirus-list": {
+        "fileName": "mac_antivirus_list.json",
+        "sourcePath": "MAC\\",
+        "clientDataPath": "Inventory\\MAC\\"
+    },
+    "test-feature-1": {
+        "fileName": "test-feature-1.json",
+        "sourcePath": "\\",
+        "clientDataPath": "Inventory\\"
+    },
+    "test-feature-2": {
+        "fileName": "test-feature-2.json",
+        "sourcePath": "test2\\",
+        "clientDataPath": "Inventory\\test2\\"
+    }
+}
