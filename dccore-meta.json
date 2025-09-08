@@ -22,22 +22,13 @@
             "always_alive": "",
             "file_path": "uems/inventory/inv-file-mappings.json",
             "checksum": "500529b644a32e53ab44b5687065dabff43645a7c9f271ea4c234585b0886b7e",
-            "version": "1755079515"
+            "version": "1755079519"
         },
         "config-gpo-admx": {
             "file_path": "uems/configuration/GPOAdmX.zip",
             "checksum": "5a85ef79c247f5b87e008541078669fac407b4270b922012ab610eba348c4e12",
             "version": "1755668275"
-        },
-        "test-feature-1": {
-            "file_path": "uems/inventory/test-feature-1.json",
-            "checksum": "5a85ef79c247f5b87e008541078669fac407b4270b922012ab610eba348c4e12",
-            "version": "1755668275"
-        },
-        "test-feature-2": {
-            "file_path": "uems/inventory/test-feature-2.json",
-            "checksum": "5a85ef79c247f5b87e008541078669fac407b4270b922012ab610eba348c4e12",
-            "version": "1755668275"
         }
     }
 }
+
